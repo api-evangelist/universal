@@ -1,0 +1,67 @@
+name: Universal Corporation Vocabulary
+description: Vocabulary and taxonomy for Universal Corporation, the world's leading global leaf tobacco merchant and processor, supplying tobacco manufacturers worldwide from production in approximately 30 countries.
+version: '1.0.0'
+created: '2026-05-03'
+modified: '2026-05-03'
+
+domains:
+  - name: Tobacco Agriculture
+    description: Tobacco growing and agricultural concepts
+    terms:
+      - name: Leaf Tobacco
+        definition: Cured tobacco leaves in their unmanufactured form, purchased from growers and sold to cigarette and tobacco product manufacturers
+      - name: Flue-Cured Tobacco
+        definition: Tobacco cured by indirect heat in temperature-controlled curing barns, producing a bright yellow leaf used primarily in cigarettes
+        aliases:
+          - Bright Leaf
+          - Virginia Tobacco
+      - name: Burley Tobacco
+        definition: Air-cured tobacco with a light tan to mahogany color, commonly used as a blending component in American cigarettes
+      - name: Dark Tobacco
+        definition: Air-cured or fire-cured tobacco used in cigars, pipe tobacco, chewing tobacco, and snuff
+      - name: Oriental Tobacco
+        definition: Sun-cured aromatic tobacco grown primarily in Turkey, Greece, and neighboring countries, used in blended cigarettes
+      - name: Grower
+        definition: A farmer who cultivates and harvests tobacco crops under contract with Universal or its subsidiaries
+      - name: Crop Year
+        definition: The agricultural season covering tobacco planting, growing, curing, and sale, typically spanning from spring planting to the following year's market sales
+
+  - name: Processing Operations
+    description: Tobacco processing and quality control
+    terms:
+      - name: Threshing
+        definition: The mechanical process of separating tobacco leaf lamina from the stem, producing strips and stems for different applications
+      - name: Redrying
+        definition: A controlled heat and moisture treatment applied to tobacco to stabilize moisture content for safe long-term storage
+      - name: Blending
+        definition: The process of combining tobaccos from different origins, grades, or types to meet manufacturer specifications
+      - name: Stemmery
+        definition: A processing facility where tobacco leaves are threshed to separate the leaf from the stem
+      - name: Reordering
+        definition: The process of repackaging tobacco to precise weight, moisture, and specification requirements for manufacturer delivery
+
+  - name: Supply Chain
+    description: Tobacco supply chain and trade concepts
+    terms:
+      - name: Merchant
+        definition: An entity that purchases tobacco from growers and resells it to manufacturers, providing processing, logistics, and financing services
+      - name: Green Leaf
+        definition: Freshly harvested tobacco that has not yet undergone curing or processing
+      - name: Packed Weight
+        definition: The final weight of processed tobacco packed in hogsheads, cartons, or other containers for shipment to manufacturers
+      - name: Hogshead
+        definition: A large wooden barrel traditionally used to pack and store cured tobacco for sale and shipping
+      - name: Leaf Dealer
+        definition: An intermediary who purchases tobacco from growers at auction or through direct contracts and resells to processors
+      - name: Floor Price
+        definition: A government-supported minimum price for tobacco at auction that ensures farmers receive a base level of compensation
+
+  - name: Digital Platforms
+    description: Technology and digital operations
+    terms:
+      - name: MobiLeaf
+        definition: Universal Corporation's tablet-based mobile application for grower management, crop tracking, and farmer support services
+      - name: Grower Management System
+        definition: Technology platform for tracking grower relationships, crop registrations, contract compliance, and agricultural inputs
+      - name: Traceability
+        definition: The capability to track the origin, custody, and movement of tobacco from farm to manufacturer through the supply chain
