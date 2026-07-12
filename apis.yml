@@ -21,9 +21,13 @@ maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
 common:
+  - type: DomainSecurity
+    url: security/universal-domain-security.yml
   - type: LinkedIn
     url: https://www.linkedin.com/company/universalcorp
   - type: Website
     url: https://www.universalcorp.com
   - type: Wikipedia
     url: https://en.wikipedia.org/wiki/Universal_Corporation
+  - url: https://www.universalcorp.com/feed/
+    type: Blog
