@@ -2,6 +2,17 @@ aid: universal
 name: Universal Corporation
 description: Universal Corporation is a global leaf tobacco merchant and processor that selects, buys, processes, packs, stores, ships, and finances leaf tobacco for sale to manufacturers of consumer tobacco products. Operating in approximately 30 countries, Universal Corporation is the world's leading supplier of leaf tobacco, providing supply chain management, processing, and blending services. The company has developed digital platforms including MobiLeaf, a tablet-based grower management system for tobacco farmer support and crop tracking.
 type: Index
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
 position: Consumer
 access: 3rd-Party
 image: https://www.universalcorp.com/favicon.ico
