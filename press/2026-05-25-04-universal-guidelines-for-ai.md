@@ -1,7 +1,9 @@
 ---
 title: Universal Guidelines for AI
 url: https://www.caidp.org/universal-guidelines-for-ai/
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Universal" press release artificial intelligence'
 position: 4
 source: serpapi-google

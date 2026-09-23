@@ -1,7 +1,9 @@
 ---
 title: Press Releases
 url: https://ir.focusuniversal.com/news-events/press-releases
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Universal" press release artificial intelligence'
 position: 1
 source: serpapi-google

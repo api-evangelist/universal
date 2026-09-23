@@ -1,7 +1,9 @@
 ---
 title: Press Releases
 url: https://www.googlecloudpresscorner.com/industry-solutions?l=100
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Universal" press release artificial intelligence'
 position: 5
 source: serpapi-google
